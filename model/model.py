@@ -40,7 +40,7 @@ class TuyaModel:
     def load_devices(self):
         devices = tinytuya.Device(dev_id="bff54e8235e708b18f8md8", address="192.168.1.99")
         devices.status()
-        print(devices.status())
+        print(devices.send())
         """Load saved devices from a file if available."""
         if os.path.exists(resource_path("data/devices-list.json")):
             with open(resource_path("data/devices-list.json"), "r") as file:
