@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Tafel midden links",
+        "id": "012224132cf432b0a90a",
+        "key": "q]4cL^-rjCo7#Q>R",
+        "mac": "2c:f4:32:b0:a9:0a",
+        "uuid": "012224132cf432b0a90a",
+        "sn": "BYAJ17KHQ0306C",
+        "category": "dj",
+        "product_name": "LED SMART",
+        "product_id": "m3dn9ck8f6qcn4hj",
+        "biz_type": 0,
+        "model": "A60 gold CCT 500lm 1800-2700K",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/ay1541056239985fDGjj/1562031783bf325aa58b1.png",
+        "mapping": {
+            "1": {
+                "code": "switch_led",
+                "type": "Boolean",
+                "values": {}
+            },
+            "3": {
+                "code": "temp_value",
+                "type": "Integer",
+                "values": {
+                    "min": 0,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            },
+            "2": {
+                "code": "bright_value",
+                "type": "Integer",
+                "values": {
+                    "min": 25,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            }
+        },
+        "ip": "192.168.1.68",
+        "version": "3.3"
+    },
+    {
+        "name": "Tafel rechts",
+        "id": "03010850c44f33966a7e",
+        "key": "fFCQ*/1`SF[JMzG(",
+        "mac": "c4:4f:33:96:6a:7e",
+        "uuid": "03010850c44f33966a7e",
+        "sn": "FO190413Z778293",
+        "category": "dj",
+        "product_name": "LED SMART",
+        "product_id": "zakhnlpdiu0ycdxn",
+        "biz_type": 0,
+        "model": "G95 gold CCT 500lm 1800-2700K",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/ay1541056239985fDGjj/1562032132da351977475.png",
+        "mapping": {
+            "1": {
+                "code": "switch_led",
+                "type": "Boolean",
+                "values": {}
+            },
+            "3": {
+                "code": "temp_value",
+                "type": "Integer",
+                "values": {
+                    "min": 0,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            },
+            "2": {
+                "code": "bright_value",
+                "type": "Integer",
+                "values": {
+                    "min": 25,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            }
+        },
+        "ip": "192.168.1.69",
+        "version": "3.3"
+    },
+    {
+        "name": "Tafel links",
+        "id": "60847532c44f33a774bd",
+        "key": "fFivRl3[?@rv)&(N",
+        "mac": "c4:4f:33:a7:74:bd",
+        "uuid": "60847532c44f33a774bd",
+        "sn": "FO190413RC013398",
+        "category": "dj",
+        "product_name": "LED SMART",
+        "product_id": "m3dn9ck8f6qcn4hj",
+        "biz_type": 0,
+        "model": "A60 gold CCT 500lm 1800-2700K",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/ay1541056239985fDGjj/1562031783bf325aa58b1.png",
+        "mapping": {
+            "1": {
+                "code": "switch_led",
+                "type": "Boolean",
+                "values": {}
+            },
+            "3": {
+                "code": "temp_value",
+                "type": "Integer",
+                "values": {
+                    "min": 0,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            },
+            "2": {
+                "code": "bright_value",
+                "type": "Integer",
+                "values": {
+                    "min": 25,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            }
+        },
+        "ip": "192.168.1.65",
+        "version": "3.3"
+    },
+    {
+        "name": "Tafel midden",
+        "id": "18631852600194d6afcd",
+        "key": ".YkB@_(^c1m?yS!z",
+        "mac": "60:01:94:d6:af:cd",
+        "uuid": "18631852600194d6afcd",
+        "sn": "FO1904257602772",
+        "category": "dj",
+        "product_name": "LED SMART",
+        "product_id": "zakhnlpdiu0ycdxn",
+        "biz_type": 0,
+        "model": "G95 gold CCT 500lm 1800-2700K",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/ay1541056239985fDGjj/1562032132da351977475.png",
+        "mapping": {
+            "1": {
+                "code": "switch_led",
+                "type": "Boolean",
+                "values": {}
+            },
+            "3": {
+                "code": "temp_value",
+                "type": "Integer",
+                "values": {
+                    "min": 0,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            },
+            "2": {
+                "code": "bright_value",
+                "type": "Integer",
+                "values": {
+                    "min": 25,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            }
+        },
+        "ip": "192.168.1.71",
+        "version": "3.3"
+    },
+    {
+        "name": "Tafel midden rechts",
+        "id": "012224132cf432b19dc7",
+        "key": "CND|fy2A}0GyJeM:",
+        "mac": "2c:f4:32:b1:9d:c7",
+        "uuid": "012224132cf432b19dc7",
+        "sn": "BYAJ17KHQ0E04B",
+        "category": "dj",
+        "product_name": "LED SMART",
+        "product_id": "m3dn9ck8f6qcn4hj",
+        "biz_type": 0,
+        "model": "A60 gold CCT 500lm 1800-2700K",
+        "sub": false,
+        "icon": "https://images.tuyaeu.com/smart/icon/ay1541056239985fDGjj/1562031783bf325aa58b1.png",
+        "mapping": {
+            "1": {
+                "code": "switch_led",
+                "type": "Boolean",
+                "values": {}
+            },
+            "3": {
+                "code": "temp_value",
+                "type": "Integer",
+                "values": {
+                    "min": 0,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            },
+            "2": {
+                "code": "bright_value",
+                "type": "Integer",
+                "values": {
+                    "min": 25,
+                    "scale": 0,
+                    "unit": "",
+                    "max": 255,
+                    "step": 1
+                }
+            }
+        },
+        "ip": "192.168.1.67",
+        "version": "3.3"
+    }
+]

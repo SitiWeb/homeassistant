@@ -1,0 +1,199 @@
+{
+    "result": [
+        {
+            "active_time": 1730485086,
+            "biz_type": 0,
+            "category": "dj",
+            "create_time": 1591909640,
+            "icon": "smart/icon/ay1541056239985fDGjj/1562031783bf325aa58b1.png",
+            "id": "012224132cf432b0a90a",
+            "ip": "92.70.48.36",
+            "lat": "51.84",
+            "local_key": "q]4cL^-rjCo7#Q>R",
+            "lon": "4.33",
+            "model": "A60 gold CCT 500lm 1800-2700K",
+            "name": "Tafel midden links",
+            "online": true,
+            "owner_id": "47864053",
+            "product_id": "m3dn9ck8f6qcn4hj",
+            "product_name": "LED SMART",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16415825707207rmcI",
+            "update_time": 1730485091,
+            "uuid": "012224132cf432b0a90a"
+        },
+        {
+            "active_time": 1730484988,
+            "biz_type": 0,
+            "category": "dj",
+            "create_time": 1594915870,
+            "icon": "smart/icon/ay1541056239985fDGjj/1562032132da351977475.png",
+            "id": "03010850c44f33966a7e",
+            "ip": "92.70.48.36",
+            "lat": "51.84",
+            "local_key": "fFCQ*/1`SF[JMzG(",
+            "lon": "4.33",
+            "model": "G95 gold CCT 500lm 1800-2700K",
+            "name": "Tafel rechts",
+            "online": true,
+            "owner_id": "47864053",
+            "product_id": "zakhnlpdiu0ycdxn",
+            "product_name": "LED SMART",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16415825707207rmcI",
+            "update_time": 1730484991,
+            "uuid": "03010850c44f33966a7e"
+        },
+        {
+            "active_time": 1723490362,
+            "biz_type": 0,
+            "category": "dj",
+            "create_time": 1594916049,
+            "icon": "smart/icon/ay1541056239985fDGjj/1562031783bf325aa58b1.png",
+            "id": "60847532c44f33a774bd",
+            "ip": "92.70.48.36",
+            "lat": "51.84",
+            "local_key": "fFivRl3[?@rv)&(N",
+            "lon": "4.33",
+            "model": "A60 gold CCT 500lm 1800-2700K",
+            "name": "Tafel links",
+            "online": true,
+            "owner_id": "47864053",
+            "product_id": "m3dn9ck8f6qcn4hj",
+            "product_name": "LED SMART",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16415825707207rmcI",
+            "update_time": 1730483108,
+            "uuid": "60847532c44f33a774bd"
+        },
+        {
+            "active_time": 1723490292,
+            "biz_type": 0,
+            "category": "dj",
+            "create_time": 1594915764,
+            "icon": "smart/icon/ay1541056239985fDGjj/1562032132da351977475.png",
+            "id": "18631852600194d6afcd",
+            "ip": "92.70.48.36",
+            "lat": "51.84",
+            "local_key": ".YkB@_(^c1m?yS!z",
+            "lon": "4.33",
+            "model": "G95 gold CCT 500lm 1800-2700K",
+            "name": "Tafel midden",
+            "online": true,
+            "owner_id": "47864053",
+            "product_id": "zakhnlpdiu0ycdxn",
+            "product_name": "LED SMART",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16415825707207rmcI",
+            "update_time": 1730483108,
+            "uuid": "18631852600194d6afcd"
+        },
+        {
+            "active_time": 1723490208,
+            "biz_type": 0,
+            "category": "dj",
+            "create_time": 1591909561,
+            "icon": "smart/icon/ay1541056239985fDGjj/1562031783bf325aa58b1.png",
+            "id": "012224132cf432b19dc7",
+            "ip": "92.70.48.36",
+            "lat": "51.84",
+            "local_key": "CND|fy2A}0GyJeM:",
+            "lon": "4.33",
+            "model": "A60 gold CCT 500lm 1800-2700K",
+            "name": "Tafel midden rechts",
+            "online": true,
+            "owner_id": "47864053",
+            "product_id": "m3dn9ck8f6qcn4hj",
+            "product_name": "LED SMART",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "bright_value",
+                    "value": 255
+                },
+                {
+                    "code": "temp_value",
+                    "value": 255
+                }
+            ],
+            "sub": false,
+            "time_zone": "+01:00",
+            "uid": "eu16415825707207rmcI",
+            "update_time": 1730483108,
+            "uuid": "012224132cf432b19dc7"
+        }
+    ],
+    "success": true,
+    "t": 1730491682890,
+    "tid": "ffe3a141988c11efad5172ecb0bd0dcf",
+    "file": {
+        "name": "tuya-raw.json",
+        "description": "Full raw list of Tuya devices.",
+        "account": "g9kdndqtaxmt1cq4i3uq",
+        "date": "2024-11-01T21:08:02.905151",
+        "tinytuya": "1.15.1"
+    }
+}
